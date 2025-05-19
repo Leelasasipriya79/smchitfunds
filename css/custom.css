@@ -1,0 +1,43 @@
+/* Add here all your CSS customizations */
+
+.blink-me {
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    30% {
+        opacity: 0;
+    }
+}
+
+.bg-color-one {
+    background-color: #ec4f4f;
+}
+
+.bg-color-two {
+    background-color: #332859;
+}
+
+.bg-color-three {
+    background-color: #03a5ed;
+}
+
+.bg-color-four {
+    background-color: #393186;
+}
+
+.bg-color-five {
+    background-color: #80eb34;
+}
+
+.bg-color-six {
+    background-color: #eb8334;
+}
+
+.bg-color-seven {
+    background-color: #aebf13;
+}
+
+.bg-color-eight {
+    background-color: #9e5700;
+}
