@@ -60,7 +60,7 @@ footer .row {
     position: absolute;
     width: 10px;
     height: 10px;
-    background: linear-gradient(90deg, #39FF14, #00D4FF);
+    background: linear-gradient(90deg, #ff14a5, #00D4FF);
     border-radius: 50%;
     pointer-events: none;
     z-index: 20;
